@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "prisma": "^5.19.1"
+  },
+  "dependencies": {
+    "@nestjs/common": "^10.4.3",
+    "@nestjs/swagger": "^7.4.2",
+    "@prisma/client": "^5.19.1",
+    "class-validator": "^0.14.1",
+    "swagger": "^0.7.5"
+  }
+}
